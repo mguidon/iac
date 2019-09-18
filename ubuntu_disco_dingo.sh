@@ -19,7 +19,7 @@ sudo apt-get install vlc
 gsettings set org.gnome.mutter experimental-features "['x11-randr-fractional-scaling']"
 sudo-apt get install cmake
 sudo apt-get install ninja-build ccache
-
+sudo apt-get install python3-dev
 
 
 ######
