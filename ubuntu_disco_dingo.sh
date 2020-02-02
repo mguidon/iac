@@ -20,7 +20,8 @@ gsettings set org.gnome.mutter experimental-features "['x11-randr-fractional-sca
 sudo-apt get install cmake
 sudo apt-get install ninja-build ccache
 sudo apt-get install python3-dev
-
+sudo apt-get install libgles2-mesa-dev
+sudo apt-get install libglu1-mesa-dev
 
 ######
 # tar xvfz grub-theme-vimix.tar.xz 
